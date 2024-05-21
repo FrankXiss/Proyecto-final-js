@@ -1,0 +1,291 @@
+[
+    {
+        "id": "animalito_01",
+        "titulo": "Elefante",
+        "imagen": "./img/animales/elefante.png",
+        "categoria": {
+            "nombre": "Animales",
+            "id": "animales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "animalito_02",
+        "titulo": "Gato",
+        "imagen": "./img/animales/gato.png",
+        "categoria": {
+            "nombre": "Animales",
+            "id": "animales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "animalito_03",
+        "titulo": "Jirafa",
+        "imagen": "./img/animales/jirafa.png",
+        "categoria": {
+            "nombre": "Animales",
+            "id": "animales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "animalito_04",
+        "titulo": "Leon",
+        "imagen": "./img/animales/leon.png",
+        "categoria": {
+            "nombre": "Animales",
+            "id": "animales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "animalito_05",
+        "titulo": "Oso Panda",
+        "imagen": "./img/animales/oso_panda.png",
+        "categoria": {
+            "nombre": "Animales",
+            "id": "animales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "animalito_06",
+        "titulo": "Oso Pardo",
+        "imagen": "./img/animales/oso_pardo.png",
+        "categoria": {
+            "nombre": "Animales",
+            "id": "animales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "animalito_07",
+        "titulo": "Oveja",
+        "imagen": "./img/animales/oveja.png",
+        "categoria": {
+            "nombre": "Animales",
+            "id": "animales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "animalito_08",
+        "titulo": "Vaca",
+        "imagen": "./img/animales/vaca.png",
+        "categoria": {
+            "nombre": "Animales",
+            "id": "animales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "animalito_09",
+        "titulo": "Zorro",
+        "imagen": "./img/animales/zorro.png",
+        "categoria": {
+            "nombre": "Animales",
+            "id": "animales"
+        },
+        "precio": 1000
+    },
+
+
+
+
+
+    {
+        "id": "muñeca_01",
+        "titulo": "Alicia",
+        "imagen": "./img/muñecas/alicia.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "muñeca_02",
+        "titulo": "Anne",
+        "imagen": "./img/muñecas/anne.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "muñeca_03",
+        "titulo": "Boo Monster Inc.",
+        "imagen": "./img/muñecas/boo_MonsterInc.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "muñeca_04",
+        "titulo": "Caperucita Roja",
+        "imagen": "./img/muñecas/caperucitaRoja.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "muñeca_05",
+        "titulo": "Carlitos",
+        "imagen": "./img/muñecas/carlitos.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "muñeca_06",
+        "titulo": "Enfermera",
+        "imagen": "./img/muñecas/enfermera.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "muñeca_07",
+        "titulo": "Hada",
+        "imagen": "./img/muñecas/hada.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "muñeca_08",
+        "titulo": "Hello Kitty",
+        "imagen": "./img/muñecas/helloKitty.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "muñeca_09",
+        "titulo": "El Principito",
+        "imagen": "./img/muñecas/principito.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "muñeca_10",
+        "titulo": "Reina de Corazones",
+        "imagen": "./img/muñecas/reinaDeCorazones.png",
+        "categoria": {
+            "nombre": "Muñecas",
+            "id": "muñecas"
+        },
+        "precio": 1000
+    },
+
+
+
+
+    {
+        "id": "superheroe-01",
+        "titulo": "Batman",
+        "imagen": "./img/superheroes/batman.png",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "superheroe-02",
+        "titulo": "Capitan America",
+        "imagen": "./img/superheroes/capitan america.png",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "superheroe-03",
+        "titulo": "Flash",
+        "imagen": "./img/superheroes/flash.png",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "superheroe-04",
+        "titulo": "Iron-Man",
+        "imagen": "./img/superheroes/ironman.png",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "superheroe-05",
+        "titulo": "Spider-Man",
+        "imagen": "./img/superheroes/spiderman.png",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "superheroe-06",
+        "titulo": "SuperGirl",
+        "imagen": "./img/superheroes/supergirl.png",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "superheroe-07",
+        "titulo": "SuperMan",
+        "imagen": "./img/superheroes/superman.png",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "superheroe-08",
+        "titulo": "Tortugas Ninja",
+        "imagen": "./img/superheroes/tortugaNinja.png",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "superheroe-09",
+        "titulo": "Wolverine",
+        "imagen": "./img/superheroes/wolverine.png",
+        "categoria": {
+            "nombre": "Superheroes",
+            "id": "superheroes"
+        },
+        "precio": 1000
+    }
+]
